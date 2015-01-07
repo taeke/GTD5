@@ -1,0 +1,5 @@
+Markdown voor md files
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+David Allens Getting Things Done
+http://gettingthingsdone.com/
